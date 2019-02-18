@@ -109,6 +109,7 @@ header nav {
         justify-content: space-between;
         flex-direction: row;
         padding-right: 40px;
+        padding-left: 10px;
     }
 }
 
@@ -116,6 +117,7 @@ header nav {
     header nav {
         width: 610px;
         padding-right: 0;
+        padding-left: 0;
     }
 }
 
@@ -308,6 +310,17 @@ header .logo {
     margin: 15px 0;
 }
 
+@media (min-width: 550px) {
+    .contact {
+        padding: 0 10px;
+    }
+}
+
+@media (min-width: 880px) {
+    .contact {
+        padding: 0;
+    }
+}
 /* Footer Styles */
 
 footer {

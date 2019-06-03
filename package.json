@@ -1,0 +1,8 @@
+{
+  "name": "responsive-web-design-I",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Blevs/responsive-web-design-I.git",
+  "author": "Henry Blevins <heblevi@gmail.com>",
+  "license": "MIT"
+}
